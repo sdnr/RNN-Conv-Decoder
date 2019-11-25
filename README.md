@@ -16,3 +16,12 @@ If you find this code helpful please cite this work using the following bibtex e
   url       = {http://arxiv.org/abs/1905.09983},
 }
 ```
+
+
+## Installation/Setup
+
+An example of the used code is given in the Jupyter Notebook (.ipynb file), the coding.py file is just for arbitrary code generation and not required to run the notebook.
+
+You can directly run the notebook with code and short explanations in google colab:
+
+[Run this Notebook in Google Colaboratory: Link to colab.google.com](https://colab.research.google.com/github/sdnr/RNN-Conv-Decoder/blob/master/RNN-based%20Decoder%20for%20Convolutional%20Codes.ipynb)
